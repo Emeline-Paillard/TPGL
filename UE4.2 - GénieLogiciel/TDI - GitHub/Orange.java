@@ -62,7 +62,13 @@ public class Orange {
 
     public static void main (String[] args){
         //Ecrire ici vos tests
-	    
+	Orange monOrange = new orange("2", "Corse";
+	Orange.getPrix();
+	Orange.setPrix("1.5");
+	Orange.getOrigine();
+	Orange.setOrigine("Portugal");
+				      
+	System.out.Orange.toString();
 	System.out.println("premier test Orange");
    }
 }
